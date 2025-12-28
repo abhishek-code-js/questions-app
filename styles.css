@@ -176,11 +176,13 @@ main {
   display: grid;
   place-items: center;
 }
+
 /*
 =============== 
 Questions
 ===============
 */
+
 .title {
   margin-top: 15vh;
   margin-bottom: 4rem;
@@ -230,6 +232,7 @@ Questions
 .question-text p {
   margin-bottom: 0;
 }
+
 /* hide text */
 .question-text {
   display: none;
